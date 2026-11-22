@@ -7,8 +7,8 @@
 // @match        https://www.ameba.jp/home
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=ameba.jp
 // @grant        none
-// @updateURL        https://github.com/personwritep/Protecters/raw/main/ホーム ユーザー情報プロテクタ.user.js
-// @downloadURL        https://github.com/personwritep/Protecters/raw/main/ホーム ユーザー情報プロテクタ.user.js
+// @updateURL        https://github.com/personwritep/Protector_HomeUser_Info/raw/main/Protector_HomeUser_Info.user.js
+// @downloadURL        https://github.com/personwritep/Protector_HomeUser_Info/raw/main/Protector_HomeUser_Info.user.js
 // ==/UserScript==
 
 
